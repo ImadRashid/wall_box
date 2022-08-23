@@ -1,3 +1,5 @@
+// http://192.11.1.0:2222/json/login
+
 var login_url = '/json/login';
 var amount_of_gasoline = "/rest/amount_of_gasoline";
 var transaction_wh_url = '/rest/transaction_wh';
